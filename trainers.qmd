@@ -1,0 +1,29 @@
+---
+title: "Trainers"
+---
+
+Meet our trainers:
+
+::: {.columns}
+
+::: {.column width="50%" class="trainer-box"}
+![](img/johndoe.jpg)
+**John Doe**  
+University: Stockholm University, department of Biology  
+ORCID: ORCID-00000  
+Website: johndoe-lab.se   
+
+I like teaching and everything pedagogy related
+:::
+
+::: {.column width="50%" class="trainer-box"}
+![](img/johndoe.jpg)
+**John Doe**  
+University: Stockholm University, department of Biology  
+ORCID: ORCID-00000  
+Website: johndoe-lab.se   
+
+I like teaching and everything pedagogy related
+:::
+
+:::

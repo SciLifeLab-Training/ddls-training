@@ -4,17 +4,18 @@ project:
 
 website:
   title: "ddls-training"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  sidebar:
+    style: "floating"
+    search: true
+    contents: 
+      - index.qmd 
+      - trainers.qmd
+      - section: "Materials"
+        contents: materials/**/*
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
 

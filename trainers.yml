@@ -1,0 +1,8 @@
+Trainers:
+  - name: "John Doe"
+    university: "Stockholm University"
+    department: "Biology"
+    orcid: "ORCID-000000"
+    website: "johndoe-lab.se"
+    description: "I like teaching"
+    image: "img/johndoe.jpg"

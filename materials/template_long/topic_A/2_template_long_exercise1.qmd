@@ -1,0 +1,10 @@
+---
+title: "Exercise 1"
+author: "John Doe"
+date: today
+number-sections: false
+---
+
+## Topic A
+
+Exercise for topic A

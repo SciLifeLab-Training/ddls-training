@@ -1,0 +1,15 @@
+---
+title: "Section 1"
+author: "John Doe"
+date: today
+number-sections: false
+---
+
+## Topic A
+
+Content for topic A.
+
+## Lecture
+
+If you have a recorded video
+
