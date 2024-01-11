@@ -1,5 +1,5 @@
 ---
-title: "ddls_training"
+title: "ddls-training"
 ---
 
 This is a Quarto website.
