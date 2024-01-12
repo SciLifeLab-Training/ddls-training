@@ -11,5 +11,5 @@ Content for topic A.
 
 ## Lecture
 
-If you have a recorded video
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
 

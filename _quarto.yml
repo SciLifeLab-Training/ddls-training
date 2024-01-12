@@ -6,16 +6,26 @@ website:
   title: "ddls-training"
   sidebar:
     style: "floating"
+    background: "#c7b0c3"
+    fontsize: 30px
     search: true
     contents: 
       - index.qmd 
       - trainers.qmd
       - section: "Materials"
         contents: materials/**/*
+  navbar:
+    background: "#43e8d8"
+    foreground: "#164a58"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
+    fontsize: 20pt
+    grid:
+      sidebar-width: 400px
+      body-width: 1600px
+      margin-width: 200px
+      gutter-width: 1.5rem
