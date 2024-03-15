@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "materials/Module_1/1_lecture_template.html",
+    "href": "materials/Module_1/1_lecture_template.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Content for topic A."
+  },
+  {
+    "objectID": "materials/Module_1/1_lecture_template.html#topic-a",
+    "href": "materials/Module_1/1_lecture_template.html#topic-a",
+    "title": "Lectures",
+    "section": "",
+    "text": "Content for topic A."
+  },
+  {
+    "objectID": "materials/Module_1/1_lecture_template.html#lecture",
+    "href": "materials/Module_1/1_lecture_template.html#lecture",
+    "title": "Lectures",
+    "section": "Lecture",
+    "text": "Lecture"
+  },
+  {
+    "objectID": "materials/Module_1/2_exercise_template.html",
+    "href": "materials/Module_1/2_exercise_template.html",
+    "title": "Exercises",
+    "section": "",
+    "text": "Exercise for topic A"
+  },
+  {
+    "objectID": "materials/Module_1/2_exercise_template.html#topic-a",
+    "href": "materials/Module_1/2_exercise_template.html#topic-a",
+    "title": "Exercises",
+    "section": "",
+    "text": "Exercise for topic A"
+  },
+  {
+    "objectID": "trainers.html",
+    "href": "trainers.html",
+    "title": "Trainers",
+    "section": "",
+    "text": "Meet our trainers:\n\n\n John Doe\nUniversity: Stockholm University, department of Biology\nORCID: ORCID-00000\nWebsite: johndoe-lab.se\nI like teaching and everything pedagogy related\n\n John Doe\nUniversity: Stockholm University, department of Biology\nORCID: ORCID-00000\nWebsite: johndoe-lab.se\nI like teaching and everything pedagogy related"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Include a one-paragraph summary of the course here.\n\n\n\n\n\n\nLearning Objectives\n\n\n\n\nList course learning objectives here.\nThese describe concepts the learners should grasp and techniques they should be able to use by the end of the course.\nYou can think of these as completing the phrase “after this course, the participant should be able to…”\n\n\n\n\n\nBrief description of target audience here.\n\n\n\nDetail any prerequisite skills needed to attend this course, with links to other relevant materials/courses if possible."
+  },
+  {
+    "objectID": "syllabus.html#overview",
+    "href": "syllabus.html#overview",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Include a one-paragraph summary of the course here.\n\n\n\n\n\n\nLearning Objectives\n\n\n\n\nList course learning objectives here.\nThese describe concepts the learners should grasp and techniques they should be able to use by the end of the course.\nYou can think of these as completing the phrase “after this course, the participant should be able to…”\n\n\n\n\n\nBrief description of target audience here.\n\n\n\nDetail any prerequisite skills needed to attend this course, with links to other relevant materials/courses if possible."
+  },
+  {
+    "objectID": "syllabus.html#authors",
+    "href": "syllabus.html#authors",
+    "title": "Syllabus",
+    "section": "Authors",
+    "text": "Authors\n\nAbout the teachers:\nSee a presentation of all our teachers here."
+  },
+  {
+    "objectID": "syllabus.html#citation",
+    "href": "syllabus.html#citation",
+    "title": "Syllabus",
+    "section": "Citation",
+    "text": "Citation\n\nPlease cite these materials if:\n\nYou adapted or used any of them in your own teaching.\nThese materials were useful for your research work. For example, you can cite us in the methods section of your paper: “We carried our analyses based on the recommendations in TODO.”.\n\nYou can cite these materials as:\n\nTODO\n\nOr in BibTeX format:\n@Misc{,\n  author = {},\n  title = {},\n  month = {},\n  year = {},\n  url = {},\n  doi = {}\n}"
+  },
+  {
+    "objectID": "syllabus.html#acknowledgements",
+    "href": "syllabus.html#acknowledgements",
+    "title": "Syllabus",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\n\nList any other sources of materials that were used.\nOr other people that may have advised during the material development (but are not authors)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to the course!\nSome course information and practicalities for the students."
+  },
+  {
+    "objectID": "index.html#materials",
+    "href": "index.html#materials",
+    "title": "Home",
+    "section": "Materials",
+    "text": "Materials\n\nContent\n\n\nModule 1\nLectures\nExercises\n\n\nModule 2\nLectures Exercises"
+  }
+]
