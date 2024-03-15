@@ -1,5 +1,5 @@
 ---
-title: "Section 1"
+title: "Lectures"
 author: "John Doe"
 date: today
 number-sections: false

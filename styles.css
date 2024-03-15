@@ -18,6 +18,9 @@
     padding: 15px;
 }
 
-.sidebar-item {
-    font-size: 35px !important;
+
+.navbar-title {
+    font-size: x-large;
+    font-weight: 800;
+    padding-left: 30px;
 }

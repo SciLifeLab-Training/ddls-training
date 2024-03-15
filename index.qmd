@@ -4,44 +4,24 @@ includes:
   - metadata-files: "materials.yml"
 ---
 
-<head>
-    <!-- Include js-yaml script directly -->
-    <script defer src="https://cdn.jsdelivr.net/npm/js-yaml@4.0.0/dist/js-yaml.min.js"></script>
-</head>
+Welcome to the course!
 
-The DDLS program with links
-
-Something about the fellows
-
-Something about the training on this page and why we do it
+Some course information and practicalities.
 
 
 ## Materials
 
-<script>
-// Load YAML data using js-yaml directly
-fetch("materials.yml")
-  .then(response => response.text())
-  .then(yamlText => jsyaml.load(yamlText))
-  .then(data => {
-    // Loop over the "Materials" section and dynamically create material boxes
-    data.Materials.forEach((material, index) => {
-      const boxId = `box${index + 1}-content`;
-      const boxContainer = document.createElement("div");
-      boxContainer.classList.add("material-box");
+### Content
+<!-- 
+Edit this section to link to the different parts of your materials.
+-->
 
-      boxContainer.innerHTML = `
-        <h2>${material.heading}</h2>
-        <p>${material.text}</p>
-      `;
+#### Module 1
+[Lectures](materials/Module_1/1_lecture_template.qmd)  
+[Exercises](materials/Module_1/2_exercise_template.qmd)
 
-      document.getElementById("material-container").appendChild(boxContainer);
-    });
-  })
-  .catch(error => console.error("Error fetching YAML:", error));
-</script>
+#### Module 2
+Lectures
+Exercises
 
-::::: {material-container}
-<div id="material-container"></div>
-:::::
 
