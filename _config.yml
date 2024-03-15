@@ -1,0 +1,6 @@
+title: DDLS course template
+description: Template for creating DDLS based courses
+repository: SciLifeLab-Training/ddls-training
+theme: jekyll-theme-cayman
+github:
+  is_project_page: false
