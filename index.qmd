@@ -6,7 +6,7 @@ includes:
 
 Welcome to the course!
 
-Some course information and practicalities.
+Some course information and practicalities for the students.
 
 
 ## Materials
